@@ -2,7 +2,6 @@ let startBtn = document.querySelector(".start");
 let stopBtn = document.querySelector(".stop");
 let resetBtn = document.querySelector(".reset");
  
-
 let hours = 0;
 let minutes = 0;
 let seconds = 0;
